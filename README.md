@@ -15,7 +15,7 @@
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=hack-parthsharma&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hack-parthsharma&theme=nightowl&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hack-parthsharma&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=hack-parthsharma)
 
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hack-parthsharma&theme=gitdimmed&no-frame=false&no-bg=false&margin-w=4)
