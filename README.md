@@ -17,8 +17,6 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=hack-parthsharma&theme=highcontrast&show_icons=true&count_private=true)<br/>
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=hack-parthsharma)
 
-## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hack-parthsharma&theme=gitdimmed&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
