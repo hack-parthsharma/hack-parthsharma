@@ -1,9 +1,8 @@
 # 💫About Me :
-- 👋 Hi, I’m Parth Sharma
+- 👋 Konnichiwa, Orewa Parth Sharma
 - 👀 I’m interested in Penetration Testing and Network Security.
 - 🌱 I’m currently preparing for CEH and OSCP. 
 - 💞️ I’m looking to collaborate on any open-source projects.
-- 📫 Linkedin profile - https://www.linkedin.com/in/parthsharmaji 
 
 
 ## 🌐Socials
