@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sharma Parth</h1>
-<h2> Welcome to My Githuc Profile ![Alt Text](https://giphy.com/gifs/anime-manga-webtoon-pVWuLuV1JESZJdebkI) </h2>
 <h3 align="center">A security enthusiast who loves terminal and open source community with the area of expertise in Network security, Penetration testing and Linux.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hack-parthsharma&label=Profile%20views&color=0e75b6&style=flat" alt="hack-parthsharma" /> </p>
