@@ -35,5 +35,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hack-parthsharma&" alt="hack-parthsharma" /></p>
 
-<p><img align="center" src="https://github-stats-alpha.vercel.app/api?username={hack-parthsharma}" alt="hack-parthsharma" /></p>
+<p><img align="center" src="https://github-stats-alpha.vercel.app/api?username=hack-parthsharma"  /></p>
 
