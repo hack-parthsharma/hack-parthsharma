@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on **any open-source project.**
 
-- 📒 I'm Trying to Learn **Lua, Rust and Application Penetration Testing.**
+- 📒 I'm Trying to Learn **Go, Rust and Application Penetration Testing.**
 
 - 📝 I regularly write articles on [itscybertech.com](itscybertech.com)
 
@@ -37,7 +37,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hack-parthsharma&show_icons=true&locale=en&layout=compact" alt="hack-parthsharma" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hack-parthsharma&" alt="hack-parthsharma" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hack-parthsharma&" alt="hack-parthsharma" /></p></br></br>
 
 <p><img align="center" src="https://github-stats-alpha.vercel.app/api?username=hack-parthsharma"  /></p>
 
