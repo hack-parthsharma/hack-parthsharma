@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sharma Parth</h1>
 <h3 align="center">A security enthusiast who loves terminal and open source community with the area of expertise in Network security, Penetration testing and Linux.</h3>
 
+![dancinganime-anime](https://user-images.githubusercontent.com/69046031/179178882-8a3fa04d-9998-4f68-97ad-0b3d330efecb.gif)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hack-parthsharma&label=Profile%20views&color=0e75b6&style=flat" alt="hack-parthsharma" /> </p>
 
-![anime-happy](https://user-images.githubusercontent.com/69046031/179178506-0f179b5c-35b5-4a09-a498-4d63fa426410.gif)
 
 
 
