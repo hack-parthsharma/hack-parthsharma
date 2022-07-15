@@ -3,6 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hack-parthsharma&label=Profile%20views&color=0e75b6&style=flat" alt="hack-parthsharma" /> </p>
 
+![anime-happy](https://user-images.githubusercontent.com/69046031/179178506-0f179b5c-35b5-4a09-a498-4d63fa426410.gif)
+
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hack-parthsharma" alt="hack-parthsharma" /></a> </p>
 
 - 🔭 I’m currently working on **Penetration Testing and Bug Bounty.**
