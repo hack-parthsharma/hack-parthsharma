@@ -39,3 +39,5 @@
 
 <p><img align="center" src="https://github-stats-alpha.vercel.app/api?username=hack-parthsharma"  /></p>
 
+![](https://raw.githubusercontent.com/hack-parthsharma/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
