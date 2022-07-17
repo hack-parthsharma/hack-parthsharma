@@ -41,4 +41,4 @@
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
-[![hack-parthsharma github activity graph](https://activity-graph.herokuapp.com/graph?username=hack-parthsharma &theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![hack-parthsharma github activity graph](https://activity-graph.herokuapp.com/graph?username=hack-parthsharma &theme=dracula)]
