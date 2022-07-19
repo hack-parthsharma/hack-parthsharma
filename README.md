@@ -41,6 +41,4 @@
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
-<p><img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up."></p>
-
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=hack-parthsharma)](https://github.com/ashutosh00710/github-readme-activity-graph)
