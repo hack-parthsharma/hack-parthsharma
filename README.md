@@ -42,6 +42,6 @@
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)<br/>
 
-[![hack-parthsharma's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hack-parthsharma)](https://github.com/anuraghazra/github-readme-stats)
+[![hack_parthsharma's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hack_parthsharma)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=hack-parthsharma)](https://github.com/ashutosh00710/github-readme-activity-graph)
