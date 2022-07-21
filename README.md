@@ -4,10 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hack-parthsharma&label=Profile%20views&color=0e75b6&style=flat" alt="hack-parthsharma" /> </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&color=39F700&center=true&lines=Just+Hack+It!;Keep+Learning.;Hack+the+World!;When+nothing+goes+right%2C+go+left.+;All+limitations+are+self-imposed.;Screw+it%2C+let%E2%80%99s+do+it.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&color=39F700&center=true&lines=Just+Hack+It!;Keep+Learning.;Hack+the+World!;When+nothing+goes+right%2C+go+left.+;All+limitations+are+self-imposed.;Screw+it%2C+let%E2%80%99s+do+it.)](https://git.io/typing-svg)
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hack-parthsharma" alt="hack-parthsharma" /></a> </p>
 
 - 🔭 I’m currently working on **Penetration Testing and Bug Bounty.**
 
