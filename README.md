@@ -7,7 +7,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&color=39F700&center=true&lines=Just+Hack+It!;Keep+Learning.;Hack+the+World!;When+nothing+goes+right%2C+go+left.+;All+limitations+are+self-imposed.;Screw+it%2C+let%E2%80%99s+do+it.)](https://git.io/typing-svg)
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hack-parthsharmarow=2&column=3&theme="radical" alt="hack-parthsharma" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hack-parthsharma&row=2&column=3&theme="radical" alt="hack-parthsharma" /></a> </p>
 
 - 🔭 I’m currently working on **Penetration Testing and Bug Bounty.**
 
