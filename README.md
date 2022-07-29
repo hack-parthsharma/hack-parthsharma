@@ -97,16 +97,16 @@
 
 <hr>
 
-
-<p align="right">
+<div>
+  <p align="center">
       <br />
       <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
         <!-- Kudos to https://github.com/pi0/clippyjs -->
         <!-- If GIFs are larger than 87px the overlay link somehow disappears -->
         <img height="87" alt="Helpful Clippy" src="images/clippy.gif"/>
       </a>
-</p>
-
+  </p>
+</div>
 
  <hr>
  
