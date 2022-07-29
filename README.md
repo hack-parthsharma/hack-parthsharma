@@ -97,7 +97,9 @@
 
 <hr>
 
-  ![girls-heart](https://user-images.githubusercontent.com/69046031/181731342-281eeb5f-552d-48a0-9f50-6bd5033bd668.gif)
-  <h2>Thanks for visiting 😻</h2>
+ <p align="center">
+ ![girls-heart](https://user-images.githubusercontent.com/69046031/181731342-281eeb5f-552d-48a0-9f50-6bd5033bd668.gif)
+ </p>
+ <h2>Thanks for visiting 😻</h2>
 
 
