@@ -72,8 +72,7 @@
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=hack-parthsharma)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<h3>My Friend</h3>
-has a message for you...
+<h3>My Friend has a message for you :</h3>
 
 <br>
 <br>
