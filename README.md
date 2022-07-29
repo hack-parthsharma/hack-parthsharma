@@ -91,10 +91,12 @@
 <br>
 
 <hr>
+
 ### Spotify Playing 🎧
 ![Spotify](https://novatorem.vercel.app/api/spotify)
+
 <hr>
- 
+<div>
  <p align="right">
       <br />
       <br />
@@ -104,8 +106,10 @@
         <img height="87" alt="Helpful Clippy" src="images/clippy.gif"/>
       </a>
     </p>
- 
+</div>
+
  <hr>
+ 
  ![girls-heart](https://user-images.githubusercontent.com/69046031/181731342-281eeb5f-552d-48a0-9f50-6bd5033bd668.gif)
  <h2>Thanks for visiting 😻</h2>
 
