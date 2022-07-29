@@ -88,5 +88,5 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="280" height="auto" />
-  <h3>Thanks for visiting 😻</h3>
+  <h2>Thanks for visiting 😻</h2>
 </div>
