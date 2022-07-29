@@ -50,11 +50,12 @@
 		return Ahmedabad_India()
 	
 	def Ambitions():
-    OSCPCertified()
+                OSCPCertified()
+		HTB_Machine_Creator()
 		LearnJapanese()
-		Be-an-Omnisicient()
+		Be_an_Omnisicient()
 		MangaAuthor()
-		# Assume 10 more awesome ambitions here  ;)
+		# More to fulfill  ;)
 	
  ```
  
