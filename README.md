@@ -29,6 +29,8 @@
 
 - ⚡ Fun fact **Linux is Suckless!**
 
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=root@parthsharma👨‍💻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/parthsharmajii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/parthsharmajii" height="30" width="40" /></a>
