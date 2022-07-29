@@ -91,6 +91,3 @@
   <h2>Thanks for visiting 😻</h2>
 </div>
 
-<div align="center">
-  ![snake svg](https://github.com/adityamangal1/adityamangal1/blob/output/github-contribution-grid-snake.svg)
-</div>
