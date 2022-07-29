@@ -82,7 +82,9 @@
 
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hack-parthsharma&theme=dracula" />
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=hack-parthsharma)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=hack-parthsharma)](https://github.com/ashutosh00710/github-readme-activity-graph)<br/>
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hack-parthsharma&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
 
 <hr>
 
