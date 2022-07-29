@@ -86,13 +86,16 @@
 </div>
 <br>
 
+<hr>
+
+### Spotify Playing 🎧
+![Spotify](https://novatorem.vercel.app/api/spotify)
+
+<hr>
+
 <div align="center">
   <img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="280" height="auto" />
   <h2>Thanks for visiting 😻</h2>
 </div>
 
-###Spotify Playing 
-<div align="center">
-![Spotify](https://novatorem.vercel.app/api/spotify)
-</div>
 
