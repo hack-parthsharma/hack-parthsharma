@@ -29,6 +29,8 @@
 
 - ⚡ Fun fact **Linux is Suckless!**
 
+<hr>
+
 [![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=NotACoder&width=600&height=250)](https://github.com/Akshay090/svg-banners)
 
 <h3 align="left">Connect with me:</h3>
