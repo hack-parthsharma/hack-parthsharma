@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sharma Parth</h1>
 <h3 align="center">A security enthusiast who loves terminal and open source community with the area of expertise in Network security, Penetration testing and Linux.</h3>
 
+<img width="1000" alt="header_1" src="https://user-images.githubusercontent.com/69046031/181695572-d47ed99f-25a8-474d-87ef-48e000750a5e.png">
+
+
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hack-parthsharma&label=Profile%20views&color=0e75b6&style=flat" alt="hack-parthsharma" /> </p>
