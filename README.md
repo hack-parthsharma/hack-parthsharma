@@ -29,7 +29,7 @@
 
 - ⚡ Fun fact **Linux is Suckless!**
 
-[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=NotACoder&width=750&height=300)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=NotACoder&width=600&height=250)](https://github.com/Akshay090/svg-banners)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -55,7 +55,7 @@
 		return Ahmedabad_India()
 	
 	def Ambitions():
-                OSCPCertified()
+		OSCPCertified()
 		HTB_Machine_Creator()
 		LearnJapanese()
 		Be_an_Omnisicient()
