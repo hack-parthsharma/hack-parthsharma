@@ -91,6 +91,8 @@
   <h2>Thanks for visiting 😻</h2>
 </div>
 
+###Spotify Playing 
+<div align="center">
 ![Spotify](https://novatorem.vercel.app/api/spotify)
-
+</div>
 
