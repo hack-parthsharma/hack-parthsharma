@@ -32,7 +32,7 @@
 
 <hr>
 <h3> There's much more to go </h3>
-<iframe src="https://giphy.com/embed/6cL5owU9sxIA0" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/g1ft3d-bluespace-my-blue-space-6cL5owU9sxIA0">via GIPHY</a></p>
+<p><img src = <iframe src="https://giphy.com/embed/6cL5owU9sxIA0" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/g1ft3d-bluespace-my-blue-space-6cL5owU9sxIA0">via GIPHY</a></p></img></p>
 
 
 <hr>
