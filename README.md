@@ -12,6 +12,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hack-parthsharma&row=2&column=3 alt="hack-parthsharma" /></a> </p>
 
 - 🔭 I’m currently working on **Penetration Testing and Bug Bounty.**
@@ -73,7 +74,7 @@
 
 [![hack_parthsharma's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hack_parthsharma)](https://github.com/anuraghazra/github-readme-stats)<br/>
 
-<p><figure><embed src="https://wakatime.com/share/@hack_parthsharma/eab9c851-61c4-4e55-b398-f26c1e6d80ac.svg"></embed></figure></p>
+<figure><embed src="https://wakatime.com/share/@hack_parthsharma/eab9c851-61c4-4e55-b398-f26c1e6d80ac.svg"></embed></figure>
 
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hack-parthsharma&theme=dracula" />
 
