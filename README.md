@@ -7,6 +7,8 @@
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hack-parthsharma&label=Profile%20views&color=blueviolet&style=plastic" alt="hack-parthsharma" />
+	
+![Current UTC time](https://jojoee.jojoee.com/api/utcnowgif?utcnow)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&color=39F700&center=true&lines=Just+Hack+It!;Keep+Learning.;Hack+the+World!;When+nothing+goes+right%2C+go+left.+;All+limitations+are+self-imposed.;Screw+it%2C+let%E2%80%99s+do+it.)](https://git.io/typing-svg)
 
