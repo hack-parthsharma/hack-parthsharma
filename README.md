@@ -74,13 +74,6 @@
 
 [![hack_parthsharma's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hack_parthsharma)](https://github.com/anuraghazra/github-readme-stats)<br/>
 
-<hr>
-
-<a href="https://wakatime.com/@hack_parthsharma/projects/ajbgrxqymv?start=2022-07-17&end=2022-07-30" target="_top">WakaTime Stats of last 14 days </a>
-
-<hr>
-<figure><embed src="https://wakatime.com/share/@hack_parthsharma/eab9c851-61c4-4e55-b398-f26c1e6d80ac.svg"></embed></figure>
-
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hack-parthsharma&theme=dracula" />
 
 <!---[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=hack-parthsharma)](https://github.com/ashutosh00710/github-readme-activity-graph)<br/>-->
