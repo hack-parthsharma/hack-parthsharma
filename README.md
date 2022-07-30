@@ -67,6 +67,14 @@
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hack-parthsharma&langs_count=10&layout=compact&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)<br/>
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hack-parthsharma&theme=github) 
+ <br>
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hack-parthsharma&theme=github)
+ <br>
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hack-parthsharma&theme=github)
+ <br>
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hack-parthsharma&theme=github) 
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hack-parthsharma&" alt="hack-parthsharma" /></p></br>
 
 <p><img align="center" src="https://github-stats-alpha.vercel.app/api?username=hack-parthsharma"  /></p>
