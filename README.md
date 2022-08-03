@@ -64,7 +64,17 @@
  ```
  
  <hr>
- 
+ <h3>🛠 Architecture</h3>
+
+```
+> fetch
+
+💾 OS     ~  Ubuntu
+💻 Host   ~  82KA Lenovo V14 G2 ITL Ua
+💽 Shell  ~  bash 5.0.17 
+```
+<hr>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hack-parthsharma&langs_count=10&layout=compact&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)<br/>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hack-parthsharma&theme=github) 
