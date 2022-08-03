@@ -140,9 +140,9 @@
 ![Spotify](https://novatorem.vercel.app/api/spotify)
 
 <hr>
-<details>
-  <summary>Your Cute Waifu</details>
+## Your Cute Waifu :
 
+<details>
 ![rick-roll](https://user-images.githubusercontent.com/69046031/182585746-903ccd7f-3924-4880-b202-cd2a657f2df3.gif)
 </details>
 <hr>
