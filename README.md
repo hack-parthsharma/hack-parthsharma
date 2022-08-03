@@ -123,7 +123,6 @@
 </details>
 <hr>
 ## My Friend has a message for you
-
 <details>
   <summary>See Message</summary>
 <div align="center">
