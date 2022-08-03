@@ -95,16 +95,25 @@
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hack-parthsharma&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)<br/>  
 </details>
+<hr>
 
 [![hack_parthsharma's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hack_parthsharma)](https://github.com/anuraghazra/github-readme-stats)<br/>
 
+## 💭 Quote of the day
+<details>
+  <summary>See quote</summary>
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)<br/>
-
-
+</details>
 <hr>
+
+## 😂 Joke of the day
+<details>
+  <summary>See joke</summary>
 <p align="center">
     <img src="https://readme-jokes.vercel.app/api"/>
 </p>
+</details>
+
 <hr>
 <h3>My Friend has a message for you :</h3>
 
