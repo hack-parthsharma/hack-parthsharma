@@ -67,7 +67,7 @@
  <h3>🛠 Architecture</h3>
 
 ```
-> fetch
+> neofetch
 
 💾 OS     ~  Ubuntu
 💻 Host   ~  82KA Lenovo V14 G2 ITL Ua
