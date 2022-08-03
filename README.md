@@ -75,7 +75,7 @@
 ```
 <hr>
 
-### Github Statistics ✨
+### ✨ Github Statistics 
 <details>
   <summary>Stats 🔥</summary>
   
@@ -124,7 +124,7 @@
 	
 <hr>
 	
-## My Friend has a message for you
+## 🐧 My Friend has a message for you
 
 <details>
   <summary>See Message</summary>
