@@ -140,11 +140,12 @@
 ![Spotify](https://novatorem.vercel.app/api/spotify)
 
 <hr>
+
 ## Random Waifu :
 
 <details>
   <summary>See Your Kawaii Waifu</summary>
-  ![](https://waifu.now.sh/type/endpoint)
+  <img src="https://waifu.now.sh/type/endpoint" alt="Waifu" align="center">
 </details>
 
 <hr>
