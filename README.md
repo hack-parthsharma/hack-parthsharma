@@ -140,6 +140,14 @@
 ![Spotify](https://novatorem.vercel.app/api/spotify)
 
 <hr>
+## Random Waifu :
+
+<details>
+  <summary>See Your Kawaii Waifu</summary>
+  ![](https://waifu.now.sh/type/endpoint)
+</details>
+
+<hr>
 
  ![girls-heart](https://user-images.githubusercontent.com/69046031/181731342-281eeb5f-552d-48a0-9f50-6bd5033bd668.gif)
  <p align="center"><h1>Thanks for visiting 😻</h1></p>
