@@ -74,8 +74,10 @@
 💽 Shell  ~  bash 5.0.17 
 ```
 <hr>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hack-parthsharma&langs_count=10&layout=compact&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)<br/>
+##Github Statistics :
+<details>
+  <summary>Stats</summary>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hack-parthsharma&langs_count=10&layout=compact&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)<br/>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hack-parthsharma&theme=github) 
  <br>
@@ -89,10 +91,8 @@
 
 <p><img align="center" src="https://github-stats-alpha.vercel.app/api?username=hack-parthsharma"  /></p>
 
-<!---[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=hack-parthsharma)](https://github.com/ashutosh00710/github-readme-activity-graph)<br/>-->
-
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hack-parthsharma&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)<br/>  
-
+</details>
 
 [![hack_parthsharma's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hack_parthsharma)](https://github.com/anuraghazra/github-readme-stats)<br/>
 
