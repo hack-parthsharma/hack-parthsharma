@@ -115,7 +115,7 @@
 
 <hr>
 
-## Wakatime Stats
+## 📊 Wakatime Stats
 <details>
   <summary>See Stats</summary>
   
