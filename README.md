@@ -121,8 +121,11 @@
   
 [![hack_parthsharma's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hack_parthsharma)](https://github.com/anuraghazra/github-readme-stats)<br/>
 </details>
+	
 <hr>
+	
 ## My Friend has a message for you
+
 <details>
   <summary>See Message</summary>
 <div align="center">
