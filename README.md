@@ -145,7 +145,7 @@
 
 <details>
   <summary>See Your Kawaii Waifu</summary>
-  <img src="https://waifu.now.sh/type/endpoint" alt="Waifu" align="center">
+  <img src="https://youtu.be/dQw4w9WgXcQ" alt="Waifu" align="center">
 </details>
 
 <hr>
