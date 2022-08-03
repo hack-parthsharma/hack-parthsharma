@@ -145,7 +145,7 @@
 
 <details>
   <h3>Your Cute Waifu :</h3>
-  [Waifu][https://youtu.be/dQw4w9WgXcQ]
+  ![don't tell me you're too blind to see](docs/rickroll.gif)
 </details>
 
 <hr>
