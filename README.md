@@ -97,8 +97,6 @@
 </details>
 <hr>
 
-[![hack_parthsharma's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hack_parthsharma)](https://github.com/anuraghazra/github-readme-stats)<br/>
-
 ## 💭 Quote of the day
 <details>
   <summary>See quote</summary>
@@ -114,6 +112,14 @@
 </p>
 </details>
 
+<hr>
+
+## Wakatime Stats
+<details>
+  <summary>See Stats</summary>
+  
+[![hack_parthsharma's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hack_parthsharma)](https://github.com/anuraghazra/github-readme-stats)<br/>
+</details>
 <hr>
 <h3>My Friend has a message for you :</h3>
 
