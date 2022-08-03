@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sharma Parth</h1>
+<h1 align="center">Hey there, I’m Sharma Parth <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"></h1>
 <h3 align="center">A software developer turned OWASP obsessed ethical hacker and penetration tester seeking to work under the area of Network Security, Vulnerability Assessment and Penetration Testing. I like to help developers and network engineers to secure their code and networks effectively. My Hobbies includes Watching Anime, Reading Blogs and Solving CTFs.</h3>
 <hr>
 <img width="1000" alt="header_1" src="https://user-images.githubusercontent.com/69046031/181695572-d47ed99f-25a8-474d-87ef-48e000750a5e.png">
