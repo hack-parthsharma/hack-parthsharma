@@ -89,11 +89,12 @@
 
 <p><img align="center" src="https://github-stats-alpha.vercel.app/api?username=hack-parthsharma"  /></p>
 
-[![hack_parthsharma's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hack_parthsharma)](https://github.com/anuraghazra/github-readme-stats)<br/>
-
 <!---[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=hack-parthsharma)](https://github.com/ashutosh00710/github-readme-activity-graph)<br/>-->
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hack-parthsharma&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hack-parthsharma&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)<br/>  
+
+
+[![hack_parthsharma's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hack_parthsharma)](https://github.com/anuraghazra/github-readme-stats)<br/>
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)<br/>
 
