@@ -144,8 +144,8 @@
 ## Random Waifu :
 
 <details>
-  <summary>See Your Kawaii Waifu</summary>
-  <img src="https://youtu.be/dQw4w9WgXcQ" alt="Waifu" align="center">
+  <h3>Your Cute Waifu :</h3>
+  [Waifu][https://youtu.be/dQw4w9WgXcQ]
 </details>
 
 <hr>
