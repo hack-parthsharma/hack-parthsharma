@@ -74,7 +74,8 @@
 💽 Shell  ~  bash 5.0.17 
 ```
 <hr>
-##Github Statistics ✨
+
+### Github Statistics ✨
 <details>
   <summary>Stats 🔥</summary>
   
