@@ -121,7 +121,6 @@
   <summary>See Stats</summary>
   
 [![hack_parthsharma's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hack_parthsharma)](https://github.com/anuraghazra/github-readme-stats)<br/>
-[![wakatime](https://wakatime.com/badge/user/d6415659-9475-44b1-b84d-7d072fb3e51e.svg)](https://wakatime.com/@d6415659-9475-44b1-b84d-7d072fb3e51e)
   
 </details>
 	
