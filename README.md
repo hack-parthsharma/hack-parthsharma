@@ -53,7 +53,8 @@ I-am-ParthSharma@github
 ```
 
 <hr>
- <h3>🛠 Architecture</h3>
+
+<h3>🛠 Architecture</h3>
 
 ```
 > neofetch
