@@ -115,7 +115,12 @@ I-am-ParthSharma@github
 [![hack_parthsharma's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hack_parthsharma)](https://github.com/anuraghazra/github-readme-stats)<br/>
   
 </details>
-	
+<hr>
+## &nbsp; &nbsp; &nbsp;🔥 My Motto
+
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; <img  src="https://readme-typing-svg.herokuapp.com?font=Soucre+Code+Pro&duration=1700&color=12263A&background=ffffff&multiline=true&width=650&height=220&lines=while(true);..+brain.init();..+if(+world.contains(open_source));....++s+%3D+open_source.login(parthsharma);....+s.explore();....+s.learn();....+s.contribute()"/>
+
 <hr>
 	
 ## 🐧 My Friend has a message for you
