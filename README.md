@@ -140,7 +140,7 @@ I-am-ParthSharma@github
 
 <hr>
 
-## 📊 Wakatime Stats
+## <img src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='20"'> Wakatime Stats
 <details>
   <summary>See Stats</summary>
   
@@ -195,7 +195,7 @@ I-am-ParthSharma@github
 
 <hr>
 
-### Tech communities
+### <img src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='20"'> Tech communities
 
 <details>
   <summary>Check My Communities</summary>
