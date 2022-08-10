@@ -53,6 +53,7 @@ I-am-ParthSharma@github
 ```
 
 <hr>
+<br/>
 
 <h3>🛠 Architecture</h3>
 
