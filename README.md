@@ -37,7 +37,7 @@
 
 <hr>
 
- ## Who am I?
+ ## <img alt="dsmark" align="center" height="70px" width="70px" src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif"> Who am I?
  ```python
  class WhoAmI:
  	user = 'Parth Sharma'
