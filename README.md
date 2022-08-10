@@ -66,6 +66,37 @@ I-am-ParthSharma@github
 ```
 <hr>
 
+## <img alt="dsmark" align="center" height="70px" width="70px" src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif"> Who am I?
+
+<details>
+	<summary>Check !</summary>
+
+ ```python
+ class WhoAmI:
+ 	user = 'Parth Sharma'
+		current_work = 'Doing Hack'
+		hobbies = [
+				'CTF',
+				'Watching Anime',
+				'Reading Manga and Blogs'
+				'Being up all Night chasing that ONE BUG...'
+			]
+	
+	def getCity():
+		return Ahmedabad_India()
+	
+	def Ambitions():
+		OSCPCertified()
+		HTB_Machine_Creator()
+		LearnJapanese()
+		Be_an_Omnisicient()
+		MangaAuthor()
+		# More to fulfill  ;)
+	
+ ```
+</details>
+<hr>
+
 ### ✨ Github Statistics 
 <details>
   <summary>Stats 🔥</summary>
