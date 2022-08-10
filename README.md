@@ -116,10 +116,12 @@ I-am-ParthSharma@github
   
 </details>
 <hr>
-## &nbsp; &nbsp; &nbsp;🔥 My Motto
+## 🔥 My Motto
 <details>
-	<summary>Check!</summary>
+  <summary>Check!</summary>
+
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; <img  src="https://readme-typing-svg.herokuapp.com?font=Soucre+Code+Pro&duration=1700&color=12263A&background=ffffff&multiline=true&width=650&height=220&lines=while(true);..+brain.init();..+if(+world.contains(open_source));....++s+%3D+open_source.login(parthsharma);....+s.explore();....+s.learn();....+s.contribute()"/>
+	
 </details>
 <hr>
 	
