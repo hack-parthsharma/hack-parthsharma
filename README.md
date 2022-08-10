@@ -14,7 +14,7 @@
 <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
 
-<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hack-parthsharma&row=2&column=3 alt="hack-parthsharma" /></a></p>
+<p align="left">[![trophy](https://github-profile-trophy.vercel.app/?username=hack-parthsharma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)</p>
 
 
 - 🔭 I’m currently working on **Penetration Testing and Bug Bounty.**
