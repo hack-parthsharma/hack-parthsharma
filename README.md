@@ -158,7 +158,7 @@ I-am-ParthSharma@github
 </details>
 <hr>
 	
-## <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111"/>  My Friend has a message for you
+## <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111"  width="20"/>  My Friend has a message for you
 
 <details>
   <summary>See Message</summary>
