@@ -13,9 +13,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=hack-parthsharma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)</p>
-
+<hr>
 
 - 🔭 I’m currently working on **Penetration Testing and Bug Bounty.**
 
@@ -82,6 +80,8 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hack-parthsharma&langs_count=10&layout=compact&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)<br/>
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=hack-parthsharma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)<br>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hack-parthsharma&theme=github) 
  <br>
