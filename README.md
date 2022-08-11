@@ -224,6 +224,11 @@ I-am-ParthSharma@github
 
 ### Spotify Playing 🎧
 ![Spotify](https://novatorem.vercel.app/api/spotify)
+</br>
+<p align="center">
+  <img src="https://andyruwruw.vercel.app/api/top-played">
+</p>
+
 
 <hr>
 <details align="center">
