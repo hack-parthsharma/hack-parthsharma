@@ -100,7 +100,7 @@ I-am-ParthSharma@github
 </details>
 <hr>
 
-### ✨ Github Statistics 
+## ✨ Github Statistics 
 <details>
   <summary>Stats 🔥</summary>
   
@@ -127,7 +127,7 @@ I-am-ParthSharma@github
 </details>
 <hr>
 
-## Github Badges :
+## ⚡ Github Badges :
 <details>
   <summary>Checkout 🔥</summary>
   
