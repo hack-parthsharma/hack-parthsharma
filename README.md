@@ -57,14 +57,15 @@ I-am-ParthSharma@github
 <br/>
 
 <h3>🛠 Architecture</h3>
+
 ```
 > neofetch
 
 💾 OS     ~  Ubuntu
 💻 Host   ~  82KA Lenovo V14 G2 ITL Ua
 💽 Shell  ~  bash 5.0.17 
-
 ```
+
 <hr>
 
 ## <img alt="dsmark" align="center" height="70px" width="70px" src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif"> Who am I?
