@@ -254,7 +254,7 @@ I-am-ParthSharma@github
 <details>
   <summary>Checkout 🔥</summary>
   
-<a href="https://docs.github.com/en/developers" target="_blank"><img src="https://raw.githubusercontent.com/acervenky/acervenky/master/assets/devbadge.gif" width="40" height="40"></a>  <a href="https://archiveprogram.github.com/" target="_blank"><img src="https://raw.githubusercontent.com/acervenky/acervenky/master/assets/acbadge.gif" width="40" height="40"></a> 
+<a href="https://docs.github.com/en/developers" target="_blank"><img src="https://raw.githubusercontent.com/acervenky/acervenky/master/assets/devbadge.gif" width="69" height="69"></a>  <a href="https://archiveprogram.github.com/" target="_blank"><img src="https://raw.githubusercontent.com/acervenky/acervenky/master/assets/acbadge.gif" width="69" height="69"></a> 
 </details>
 
 <hr>
