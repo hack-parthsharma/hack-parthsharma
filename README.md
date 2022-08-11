@@ -250,7 +250,7 @@ I-am-ParthSharma@github
 </details>
 <hr>
 
-## ⚡ Github Badges :
+## ⚡ Github Badges
 <details>
   <summary>Checkout 🔥</summary>
   
@@ -345,7 +345,7 @@ I-am-ParthSharma@github
 
 <hr>
 
-### Spotify Playing 🎧
+### Spotify Playing
 <details>
   <summary>:headphones:</summary>
 
