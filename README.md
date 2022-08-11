@@ -57,14 +57,29 @@ I-am-ParthSharma@github
 <br/>
 
 <h3>🛠 Architecture</h3>
+```
+
+            .-/+oossssoo+/-.               parthsharma@root 
+        `:+ssssssssssssssssss+:`           ---------------- 
+      -+ssssssssssssssssssyyssss+-         OS: Ubuntu 20.04.4 LTS x86_64 
+    .ossssssssssssssssssdMMMNysssso.       Host: 82KA Lenovo V14 G2 ITL Ua 
+   /ssssssssssshdmmNNmmyNMMMMhssssss/      Kernel: 5.13.0-52-generic 
+  +ssssssssshmydMMMMMMMNddddyssssssss+     Uptime: 30 mins 
+ /sssssssshNMMMyhhyyyyhmNMMMNhssssssss/    Packages: 2592 (dpkg), 10 (flatpak), 
+.ssssssssdMMMNhsssssssssshNMMMdssssssss.   Shell: bash 5.0.17 
++sssshhhyNMMNyssssssssssssyNMMMysssssss+   Resolution: 1366x768 
+ossyNMMMNyMMhsssssssssssssshmmmhssssssso   DE: GNOME 
+ossyNMMMNyMMhsssssssssssssshmmmhssssssso   WM: Mutter 
++sssshhhyNMMNyssssssssssssyNMMMysssssss+   WM Theme: Arc-Dark 
+.ssssssssdMMMNhsssssssssshNMMMdssssssss.   Theme: Dracula [GTK2/3] 
+ /sssssssshNMMMyhhyyyyhdNMMMNhssssssss/    Icons: Humanity-Dark [GTK2/3] 
+  +sssssssssdmydMMMMMMMMddddyssssssss+     Terminal: gnome-terminal 
+   /ssssssssssshdmNNNNmyNMMMMhssssss/      CPU: 11th Gen Intel i3-1115G4 (4) @  
+    .ossssssssssssssssssdMMMNysssso.       GPU: Intel Device 9a78 
+      -+sssssssssssssssssyyyssss+-        
 
 ```
-> neofetch
 
-💾 OS     ~  Ubuntu
-💻 Host   ~  82KA Lenovo V14 G2 ITL Ua
-💽 Shell  ~  bash 5.0.17 
-```
 <hr>
 
 ## <img alt="dsmark" align="center" height="70px" width="70px" src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif"> Who am I?
