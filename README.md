@@ -64,6 +64,7 @@ I-am-ParthSharma@github
 💾 OS     ~  Ubuntu
 💻 Host   ~  82KA Lenovo V14 G2 ITL Ua
 💽 Shell  ~  bash 5.0.17 
+
 ```
 
 <hr>
