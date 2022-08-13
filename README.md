@@ -224,14 +224,12 @@ I-am-ParthSharma@github
 
 ## Tasks To Be Done
 
-<details>
-  <summary>Check Them Out!</summary><br/>
 - [x] Born
 - [ ] Got a job
 - [ ] Married
 - [ ] Have children
 - [ ] Die
-</details>
+
 <hr>
 
 ## ✨ Github Statistics 
