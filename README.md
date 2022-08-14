@@ -297,6 +297,11 @@ I-am-ParthSharma@github
   <summary>See Stats</summary>
   
 [![hack_parthsharma's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hack_parthsharma)](https://github.com/anuraghazra/github-readme-stats)<br/>
+
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
   
 </details>
 <hr>
