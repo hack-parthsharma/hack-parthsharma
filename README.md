@@ -14,23 +14,6 @@
 
 <hr>
 
-- 🔭 I’m currently working on **Penetration Testing and Bug Bounty.**
-
-- 🌱 I’m currently preparing for **CEH Master, OSCP and GSE.**
-
-- 👯 I’m looking to collaborate on **any open-source project.**
-
-- 📒 I'm Trying to Learn **Go, Rust and Application Penetration Testing.**
-
-- 📝 I regularly write articles on [itscybertech.com](itscybertech.com)
-
-- 💬 Ask me about **Cybersecurity and Linux**
-
-- 📫 How to reach me **ps191240@gmail.com**
-
-- ⚡ Fun fact **Linux is Suckless!**
-
-<hr>
 
 ## Technology Stack 💻
 
