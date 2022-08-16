@@ -10,9 +10,6 @@
 <hr>
 <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:hack-parthsharma"></a>
 	
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&color=39F700&center=true&lines=Just+Hack+It!;Keep+Learning.;Hack+the+World!;When+nothing+goes+right%2C+go+left.+;All+limitations+are+self-imposed.;Screw+it%2C+let%E2%80%99s+do+it.)](https://git.io/typing-svg)
-
 <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
 <hr>
