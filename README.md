@@ -279,7 +279,15 @@ I-am-ParthSharma@github
 [![hack_parthsharma's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hack_parthsharma)](https://github.com/anuraghazra/github-readme-stats)<br/>
 <a href="https://wakatime.com/@d6415659-9475-44b1-b84d-7d072fb3e51e"><img src="https://wakatime.com/badge/user/d6415659-9475-44b1-b84d-7d072fb3e51e.svg" alt="Total time coded since Jul 21 2022" /></a>
 
-
+$.ajax({
+  type: 'GET',
+  url: 'https://wakatime.com/share/@hack_parthsharma/f5f68fd6-331f-40ce-8cee-813169d25a4d.json',
+  dataType: 'jsonp',
+  success: function(response) {
+    console.log(response.data);
+  },
+});
+	
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
