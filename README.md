@@ -3,7 +3,9 @@
 <hr>
 <img width="1000" alt="header_1" src="https://user-images.githubusercontent.com/69046031/181695572-d47ed99f-25a8-474d-87ef-48e000750a5e.png">
 
-![Kuriyama_Mirai_flips_through_The_C_Programming_Language](https://user-images.githubusercontent.com/69046031/187581999-7b1468d7-95a4-4d10-bb2b-2ca540fac702.gif)
+![Kuriyama_Mirai_flips_through_The_C_Programming_Language](https://user-images.githubusercontent.com/69046031/187582328-2d48162c-de0b-4c98-b9d6-66f8a3254989.gif)
+
+
 <img src="cyberpunk.gif?raw=true" width="40%" height="40%" align='right'/>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=hack-parthsharma&label=Profile%20views&color=blueviolet&style=plastic" alt="hack-parthsharma" />-->
