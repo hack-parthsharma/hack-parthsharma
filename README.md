@@ -7,10 +7,14 @@
 <img src="cyberpunk.gif?raw=true" width="40%" height="40%" align='right'/>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=hack-parthsharma&label=Profile%20views&color=blueviolet&style=plastic" alt="hack-parthsharma" />-->
+
 <hr>
 <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:hack-parthsharma"></a>
 	
 <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
+
+![Kuriyama_Mirai_flips_through_The_C_Programming_Language](https://user-images.githubusercontent.com/69046031/187581999-7b1468d7-95a4-4d10-bb2b-2ca540fac702.gif)
+
 
 <hr>
 
