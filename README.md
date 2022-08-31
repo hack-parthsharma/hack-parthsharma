@@ -6,7 +6,7 @@
 
 <img src="cyberpunk.gif?raw=true" width="40%" height="40%" align='right'/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hack-parthsharma&label=Profile%20views&color=blueviolet&style=plastic" alt="hack-parthsharma" />
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=hack-parthsharma&label=Profile%20views&color=blueviolet&style=plastic" alt="hack-parthsharma" />-->
 <hr>
 <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:hack-parthsharma"></a>
 	
