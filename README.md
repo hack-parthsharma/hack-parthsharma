@@ -6,11 +6,7 @@
 <h2> Profile views demonstrated by lolis </h2>
 
 <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:hack-parthsharma"></a>
-
-<hr>
-
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=hack-parthsharma&label=Profile%20views&color=blueviolet&style=plastic" alt="hack-parthsharma" />-->
-<!--<img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />-->
+<br/>
 
 <img src="cyberpunk.gif?raw=true" width="30%" height="30%" align='right'/>
 <br/>
@@ -18,6 +14,10 @@
 <br/>
 
 <hr>
+
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=hack-parthsharma&label=Profile%20views&color=blueviolet&style=plastic" alt="hack-parthsharma" />-->
+<!--<img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />-->
+
 
 
 ## Technology Stack 💻
@@ -146,17 +146,6 @@
 
 <hr>
 
-<h3>🛠 Architecture and Interests 💖</h3>
-
-```
-> neofetch
-
-💾 OS     ~  Ubuntu
-💻 Host   ~  82KA Lenovo V14 G2 ITL Ua
-💽 Shell  ~  bash 5.0.17 
-
-```
-</br>
 
 <img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="280" />
 
