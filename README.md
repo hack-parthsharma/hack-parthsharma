@@ -3,7 +3,6 @@
 <hr>
 <img width="1000" alt="header_1" src="https://user-images.githubusercontent.com/69046031/181695572-d47ed99f-25a8-474d-87ef-48e000750a5e.png">
 
-<h2> Profile views demonstrated by lolis </h2>
 
 <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:hack-parthsharma"></a>
 <br/>
@@ -19,7 +18,7 @@
 <!--<img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />-->
 
 
-
+<hr>
 ## Technology Stack 💻
 
 <details>
