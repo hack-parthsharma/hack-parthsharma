@@ -9,7 +9,7 @@
 
 <img src="cyberpunk.gif?raw=true" width="30%" height="30%" align='right'/>
 <br/>
-<img src="city-scape.gif?raw=true" width="30%" height="30%" align='left'/>
+<!--<img src="city-scape.gif?raw=true" width="30%" height="30%" align='left'/>-->
 <br/>
 
 <hr>
@@ -18,7 +18,6 @@
 <!--<img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />-->
 
 
-<hr>
 ## Technology Stack 💻
 
 <details>
