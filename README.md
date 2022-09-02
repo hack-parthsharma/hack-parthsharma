@@ -24,7 +24,7 @@
   <summary> Checkout My Tech Stack ⚡</summary>
 
 <p align='center'>
-<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+<img src="city-scape.gif" width="35%" height="35%"></img></p>
 
 ### Programming Languages 👨‍💻 :
 <br>
