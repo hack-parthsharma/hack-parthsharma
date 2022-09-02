@@ -366,10 +366,14 @@ I-am-ParthSharma@github
 </p>
 
 <hr>
-
+## Surprise for you 🌠
+<details> 
+	<summary>Checkout ❤️‍🔥</summary>
+<p align='center'><h2>Thanks for visiting 💕</h2></p>
+<br/>
 <img src="nico.gif?raw=true" width="20%" height="20%" align='left'/>
 <img src="read.gif?raw=true" width="20%" height="20%" align='left'/>
-
+<details>
 
 
 
