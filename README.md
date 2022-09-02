@@ -367,13 +367,10 @@ I-am-ParthSharma@github
 
 <hr>
 
-![Kuriyama_Mirai_flips_through_The_C_Programming_Language](https://user-images.githubusercontent.com/69046031/187582328-2d48162c-de0b-4c98-b9d6-66f8a3254989.gif)
+<img src="nico.gif?raw=true" width="30%" height="30%" align='left'/>
+<img src="read.gif?raw=true" width="30%" height="30%" align='right'/>
 	
- ![girls-heart](https://user-images.githubusercontent.com/69046031/181731342-281eeb5f-552d-48a0-9f50-6bd5033bd668.gif)
  <p align="center"><h1>Thanks for visiting 😻</h1></p>
 
-<img src="nico.gif?raw=true" width="30%" height="30%" align='left'/>
-<br/>
-<img src="read.gif?raw=true" width="30%" height="30%" align='right'/>
 
 
