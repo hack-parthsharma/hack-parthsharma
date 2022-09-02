@@ -7,9 +7,9 @@
 <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:hack-parthsharma"></a>
 <br/>
 
-<img src="cyberpunk.gif?raw=true" width="30%" height="30%" align='right'/>
+<img src="cyberpunk.gif?raw=true" width="35%" height="35%" align='right'/>
 <br/>
-<!--<img src="city-scape.gif?raw=true" width="30%" height="30%" align='left'/>-->
+<!--<img src="city-scape.gif?raw=true" width="40%" height="40%" align='left'/>-->
 <br/>
 
 <hr>
