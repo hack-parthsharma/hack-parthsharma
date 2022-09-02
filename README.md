@@ -367,8 +367,8 @@ I-am-ParthSharma@github
 
 <hr>
 
-<img src="nico.gif?raw=true" width="40%" height="40%" align='left'/>
-<img src="read.gif?raw=true" width="40%" height="40%" align='left'/>
+<img src="nico.gif?raw=true" width="20%" height="20%" align='left'/>
+<img src="read.gif?raw=true" width="20%" height="20%" align='left'/>
 
 
 
