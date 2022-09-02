@@ -22,7 +22,7 @@
 
 <details>
   <summary> Checkout My Tech Stack ⚡</summary>
-
+<br/>
 <p align='center'>
 <img src="city-scape.gif" width="35%" height="35%"></img></p>
 
