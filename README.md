@@ -373,6 +373,6 @@ I-am-ParthSharma@github
 
 <hr>
 
-	<p align="center"><h2> Thanks for Visiting 💖 </h2></p>
+<p align="center"><h2> Thanks for Visiting 💖 </h2></p>
 
-
+<hr>
