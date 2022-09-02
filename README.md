@@ -372,4 +372,8 @@ I-am-ParthSharma@github
  ![girls-heart](https://user-images.githubusercontent.com/69046031/181731342-281eeb5f-552d-48a0-9f50-6bd5033bd668.gif)
  <p align="center"><h1>Thanks for visiting 😻</h1></p>
 
+<img src="nico.gif?raw=true" width="30%" height="30%" align='left'/>
+<br/>
+<img src="read.gif?raw=true" width="30%" height="30%" align='right'/>
+
 
