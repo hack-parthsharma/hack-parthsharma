@@ -145,7 +145,7 @@
 <hr>
 
 
-<img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="280" />
+<!--<img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="280" />
 
 ```
 I-am-ParthSharma@github
@@ -159,7 +159,7 @@ I-am-ParthSharma@github
 🚩 Interested in Bug Bounty
 💖 In a complicated relationship with CryptAlgorithms
 🎵 Love Anime, loli, hentai and EDM music
-```
+```-->
 
 
 
