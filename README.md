@@ -366,6 +366,14 @@ I-am-ParthSharma@github
 
 <hr>
 
+**What I love**
+
+| <img src=https://github.com/Amchuz/Amchuz/blob/master/coding.gif width="110" height="100"> | <img src=https://github.com/Amchuz/Amchuz/blob/master/kpop.gif width="110" height="100"> | <img src=https://github.com/Amchuz/Amchuz/blob/master/animeicon.gif width="110" height="100"> | 
+| :---: | :---: | :---: |
+| <b>Coding</b> | <b>Lolis</b> | <b>Anime</b> |
+
+<hr>
+
 ### Spotify Playing
 <details>
   <summary>:headphones:</summary>
@@ -378,14 +386,6 @@ I-am-ParthSharma@github
 </details>
 
 <hr>
-
-**What I love**
-
-| <img src=https://github.com/Amchuz/Amchuz/blob/master/coding.gif width="110" height="100"> | <img src=https://github.com/Amchuz/Amchuz/blob/master/kpop.gif width="110" height="100"> | <img src=https://github.com/Amchuz/Amchuz/blob/master/animeicon.gif width="110" height="100"> | 
-| :---: | :---: | :---: |
-| <b>Coding</b> | <b>Hentai</b> | <b>Anime</b> |
-
-
 
 <details align="center">
 
@@ -404,9 +404,4 @@ I-am-ParthSharma@github
 
 <hr>
 
-
-<img src="nico.gif?raw=true" width="20%" height="20%" align='left'/>
-<img src="catgirl.gif?raw=true" width="24%" height="24%" align='left'/>
-<img src="read.gif?raw=true" width="20%" height="20%" align='left'/>
-<img src="tiredd.gif?raw=true" width="35%" height="35%" align='left'/>
 
