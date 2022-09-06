@@ -2,7 +2,7 @@
 <h3 align="center">A software developer turned OWASP obsessed ethical hacker and penetration tester seeking to work under the area of Network Security, Vulnerability Assessment and Penetration Testing. I like to help developers and network engineers to secure their code and networks effectively. My Hobbies includes Watching Anime, Reading Blogs and Solving CTFs.</h3>
 <hr>
 <img width="1000" alt="header_1" src="https://user-images.githubusercontent.com/69046031/181695572-d47ed99f-25a8-474d-87ef-48e000750a5e.png">
-
+[![committers.top badge](https://user-badge.committers.top/india_private/USERNAME.svg)](https://user-badge.committers.top/india_private/hack-parthsharma)
 
 <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:hack-parthsharma"></a>
 <br/>
@@ -225,9 +225,6 @@ I-am-ParthSharma@github
 <p><img align="center" src="https://github-stats-alpha.vercel.app/api?username=hack-parthsharma"  /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hack-parthsharma&show_icons=true&include_all_commits=true&theme=blue-white&count_private=true" alt="github stats"></p></br>
-
-![](https://profile-summary-for-github.com/user/hack-parthsharma)
-<p><img align="center" src="https://profile-summary-for-github.com/user/hack-parthsharma"/></p>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hack-parthsharma&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)<br/>  
 </details>
