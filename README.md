@@ -398,7 +398,7 @@ I-am-ParthSharma@github
 
 <img src="nico.gif?raw=true" width="20%" height="20%" align='left'/>
 <img src="catgirl.gif?raw=true" width="24%" height="24%" align='left'/>
-<img src="nezuko.gif?raw=true" width="24%" height="24%" align='left'/>
+<!--<img src="nezuko.gif?raw=true" width="24%" height="24%" align='left'/>-->
 <img src="read.gif?raw=true" width="20%" height="20%" align='left'/>
 <img src="tiredd.gif?raw=true" width="20%" height="20%" align='left'/>
 
