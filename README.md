@@ -378,6 +378,14 @@ I-am-ParthSharma@github
 </details>
 
 <hr>
+
+**What I love**
+
+| <img src=https://github.com/Amchuz/Amchuz/blob/master/coding.gif width="110" height="100"> |  <img src=https://github.com/Amchuz/Amchuz/blob/master/animeicon.gif width="110" height="100"> | 
+| :---: | :---: | :---: |
+| <b>Coding</b> |  <b>Anime</b> |
+
+
 <details align="center">
 
 <summary> <b> <samp> Light Bonfire </samp></b></summary>
