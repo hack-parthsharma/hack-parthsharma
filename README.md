@@ -9,6 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hack-parthsharma&label=Profile%20views&color=blueviolet&style=plastic" alt="hack-parthsharma" />
 <br/>
+<img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
 <img src="cyberpunk.gif?raw=true" width="35%" height="35%" align='right'/>
 <br/>
@@ -16,8 +17,6 @@
 <br/>
 
 <hr>
-
-<!--<img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />-->
 
 
 ## Technology Stack 💻
