@@ -6,7 +6,8 @@
 
 [![committers.top badge](https://user-badge.committers.top/india_private/hack-parthsharma.svg)](https://user-badge.committers.top/india_private/hack-parthsharma)
 
-<!--<a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:hack-parthsharma"></a>-->
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hack-parthsharma&label=Profile%20views&color=blueviolet&style=plastic" alt="hack-parthsharma" />
 <br/>
 
 <img src="cyberpunk.gif?raw=true" width="35%" height="35%" align='right'/>
@@ -16,7 +17,6 @@
 
 <hr>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hack-parthsharma&label=Profile%20views&color=blueviolet&style=plastic" alt="hack-parthsharma" />
 <!--<img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />-->
 
 
