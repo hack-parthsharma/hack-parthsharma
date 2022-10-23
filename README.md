@@ -227,6 +227,9 @@ I-am-ParthSharma@github
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hack-parthsharma&show_icons=true&include_all_commits=true&theme=blue-white&count_private=true" alt="github stats"></p></br>
 
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=hack-parthsharma&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hack-parthsharma&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)<br/>  
 </details>
 <hr>
