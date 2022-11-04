@@ -229,6 +229,8 @@ I-am-ParthSharma@github
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=hack-parthsharma&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
 
+[![@hackywacky's Holopin board](https://holopin.me/hackywacky)](https://holopin.io/@hackywacky)
+
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hack-parthsharma&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)<br/>  
 </details>
