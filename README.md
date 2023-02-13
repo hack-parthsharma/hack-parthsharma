@@ -275,11 +275,6 @@ I-am-ParthSharma@github
  
 <a href="https://wakatime.com/@d6415659-9475-44b1-b84d-7d072fb3e51e"><img src="https://wakatime.com/badge/user/d6415659-9475-44b1-b84d-7d072fb3e51e.svg" alt="Total time coded since Jul 21 2022" /></a><br/>
 	
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@hack_parthsharma/95f08754-a117-4259-8c51-72e432c0ecc1.png" width="40%" height="40%"/></a>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
   
 </details>
 <hr>
@@ -295,9 +290,9 @@ I-am-ParthSharma@github
 	
 **What I love**
 
-| <img src=https://github.com/Amchuz/Amchuz/blob/master/coding.gif width="110" height="100"> | <img src=https://github.com/Amchuz/Amchuz/blob/master/animegirl.gif width="110" height="100"> | <img src=https://github.com/Amchuz/Amchuz/blob/master/animeicon.gif width="110" height="100"> | 
-| :---: | :---: | :---: |
-| <b>Coding</b> | <b>Lolis</b> | <b>Anime</b> |
+| <img src=https://github.com/Amchuz/Amchuz/blob/master/coding.gif width="110" height="100"> | <img src=https://github.com/Amchuz/Amchuz/blob/master/animeicon.gif width="110" height="100"> | 
+| :---: | :---: |
+| <b>Coding</b> | <b>Anime</b> |
 
 <hr>
 
