@@ -249,16 +249,6 @@ I-am-ParthSharma@github
 
 <hr>
 
-## ⚡ Github Badges
-<details>
-  <summary>Checkout 🔥</summary>
-  
-<a href="https://docs.github.com/en/developers" target="_blank"><img src="https://raw.githubusercontent.com/acervenky/acervenky/master/assets/devbadge.gif" width="69" height="69"></a>  <a href="https://archiveprogram.github.com/" target="_blank"><img src="https://raw.githubusercontent.com/acervenky/acervenky/master/assets/acbadge.gif" width="69" height="69"></a> 
-</details>
-
-<hr>
-
-
 
 
 ## 💭 Quote of the day
@@ -303,82 +293,6 @@ I-am-ParthSharma@github
 </details>
 <hr>
 	
-## <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111"  width="20"/>  My Friend has a message for you
-
-<details>
-  <summary>See Message</summary>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/38964964/167205200-026483f2-8b0f-4101-b76f-96347a246889.png" width="50%" alt="Python fake tip: to improve the readability of your code, you can import __future__ as tomorrow">
-  
-<h4 align="center">
-  
-```diff
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-@@       o o                                           @@
-@@       | |                                           @@
-@@      _L_L_                                          @@
-@@   ❮\/__-__\/❯ Programming isn't about what you know @@
-@@   ❮(|~o.o~|)❯  It's about what you can figure out   @@
-@@   ❮/ \`-'/ \❯                                       @@
-@@     _/`U'\_                                         @@
-@@    ( .   . )     .----------------------------.     @@
-@@   / /     \ \    | while( ! (succed=try() ) ) |     @@
-@@   \ |  ,  | /    '----------------------------'     @@
-@@    \|=====|/                                        @@
-@@     |_.^._|                                         @@
-@@     | |"| |                                         @@
-@@     ( ) ( )   Testing leads to failure              @@
-@@     |_| |_|   and failure leads to understanding    @@
-@@ _.-' _j L_ '-._                                     @@
-@@(___.'     '.___)                                    @@
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-```
-
-</h4>  
-</div>
-<div>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/exceptionallyfastparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
-</div>
-</details>
-
-<hr>
-
-### <img src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='22'> Tech communities
-
-<details>
-  <summary>Check My Communities</summary>
-  
-|Member|Member|Member|
-|---------|---------|------|
-|<a href="https://kotlinmumbai.tech"><img src="https://github.com/Rishit-dagli/Rishit-dagli/blob/master/communities/kotlin_mumbai.png" height="100px"></a>|<a href="https://community.mozilla.org/groups/mozilla-mumbai/"><img src="https://github.com/Rishit-dagli/Rishit-dagli/blob/master/communities/mozilla_mumbai.png" height="100px"></a>|<a href="https://www.meetup.com/tfugmumbai/"><img src="https://github.com/Rishit-dagli/Rishit-dagli/blob/master/communities/tfug_mumbai.png" height="100px"></a>|
-
-</details>
-
-<hr>
-
 **What I love**
 
 | <img src=https://github.com/Amchuz/Amchuz/blob/master/coding.gif width="110" height="100"> | <img src=https://github.com/Amchuz/Amchuz/blob/master/animegirl.gif width="110" height="100"> | <img src=https://github.com/Amchuz/Amchuz/blob/master/animeicon.gif width="110" height="100"> | 
@@ -398,16 +312,6 @@ I-am-ParthSharma@github
 </p>
 </details>
 
-<hr>
-
-<details align="center">
-
-<summary> <b> <samp> Light Bonfire </samp></b></summary>
-<samp>
- <b><h2 style="color: #fc6203">B O N F I R E &nbsp; L I T !</h2> </b>
-
-<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
-</details>
 <hr>
 
 
