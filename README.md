@@ -297,7 +297,6 @@ I-am-ParthSharma@github
 <hr>
 
 ### Spotify Playing
-<details>
   <summary>:headphones:</summary>
 
 ![Spotify](https://novatorem.vercel.app/api/spotify)
@@ -305,7 +304,6 @@ I-am-ParthSharma@github
 <p align="center">
   <img src="https://andyruwruw.vercel.app/api/top-played">
 </p>
-</details>
 
 <hr>
 
