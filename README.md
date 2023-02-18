@@ -130,26 +130,6 @@
 
 <hr>
 
-
-<img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="280" />
-
-```
-I-am-ParthSharma@github
--------------------------
-💻 I am a self taught Cybersecurity Enthusiast and Penetration Tester
-📚 I have a Bachelors in Computer Science from Ganpat University at India
-📝 I have a strong interest in Reverse Engineering and Blockchain
-🔭 Working on App Development and Web3.js
-🌱 Learning about Go and Rust
-🌟 Main languages: Python, JavaScript
-🚩 Interested in Bug Bounty
-💖 In a complicated relationship with CryptAlgorithms
-🎵 Love Anime, loli, hentai and EDM music
-```
-
-
-## <img alt="dsmark" align="center" height="70px" width="70px" src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif"> Who am I?
-
 <details>
 	<summary>Check 🎑 </summary>
 
