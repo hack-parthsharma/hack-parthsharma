@@ -216,15 +216,6 @@
 
 <hr>
 
-## <img src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='22'> Wakatime Stats
-<details>
-  <summary>See Stats</summary>
- 
-<a href="https://wakatime.com/@d6415659-9475-44b1-b84d-7d072fb3e51e"><img src="https://wakatime.com/badge/user/d6415659-9475-44b1-b84d-7d072fb3e51e.svg" alt="Total time coded since Jul 21 2022" /></a><br/>
-	
-  
-</details>
-<hr>
 
 ## 🔥 My Motto
 <details>
@@ -235,13 +226,6 @@
 </details>
 <hr>
 	
-**What I love**
-
-| <img src=https://github.com/Amchuz/Amchuz/blob/master/coding.gif width="110" height="100"> | <img src=https://github.com/Amchuz/Amchuz/blob/master/animeicon.gif width="110" height="100"> | 
-| :---: | :---: |
-| <b>Coding</b> | <b>Anime</b> |
-
-<hr>
 
 ### Spotify Playing
 
