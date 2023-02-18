@@ -20,7 +20,6 @@
 
 <img src="cyberpunk.gif?raw=true" width="35%" height="35%" align='right'/>
 <br/>
-<!--<img src="city-scape.gif?raw=true" width="40%" height="40%" align='left'/>-->
 <br/>
 
 <hr>
@@ -111,27 +110,6 @@
 </p>
 <br>
 
-### ML/DL 🤖/🧠 :
-<br>
-<p align='center'>
-<img src="https://media.giphy.com/media/QyJTDR8VkUtyKHNPm9/giphy.gif" width="270" height="174" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
-<br>
-<p align='center'>
-<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">&nbsp;&nbsp;
-</p>
-<br>
-
-### IOT 🔌 :
-<br>
-<p align='center'>
-<img src="https://media.giphy.com/media/llDQjVIHqiXkeIJgrK/giphy.gif" width="410" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
-<br>
-<p align='center'>
-<img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi">
-</p>
-<br>
 
 ### Operating Systems 🐧 :
 <br>
@@ -153,7 +131,7 @@
 <hr>
 
 
-<!--<img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="280" />
+<img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="280" />
 
 ```
 I-am-ParthSharma@github
@@ -167,7 +145,7 @@ I-am-ParthSharma@github
 🚩 Interested in Bug Bounty
 💖 In a complicated relationship with CryptAlgorithms
 🎵 Love Anime, loli, hentai and EDM music
-```-->
+```
 
 
 ## <img alt="dsmark" align="center" height="70px" width="70px" src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif"> Who am I?
