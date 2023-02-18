@@ -3,8 +3,6 @@
 
 ⤷ Highly experienced Security Analyst and Penetration Tester who has extensive experience with penetration testing, vulnerability analysis, security audits, and security architectures. Expert in uncovering and mitigating vulnerabilities within a network.
 
- <a aligh="left" href="https://https://hack-parthsharma.github.io/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/globe.svg" alt="Website" width="22" height="22" /></a> <a aligh="left" href="mailto:ps191240@gmail.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /></a> <a aligh="left" href="https://twitter.com/CrypticXParth" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/twitter.svg" alt="Twitter" width="22" height="22" /></a> <a aligh="left" href="https://www.linkedin.com/in/https://www.linkedin.com/in/parthsharmajii" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a> <a aligh="left" href="https://discord.com/user/×Nerdic×#8366" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/discord.svg" alt="Discord" width="22" height="22" /></a>  
-
 ⚐ Based in India
 
 ϟ Currently Security Analyst & Penetration Tester
@@ -16,8 +14,6 @@
 <hr>
 <img width="1000" alt="header_1" src="https://user-images.githubusercontent.com/69046031/181695572-d47ed99f-25a8-474d-87ef-48e000750a5e.png">
 
-
-[![committers.top badge](https://user-badge.committers.top/india_private/hack-parthsharma.svg)](https://user-badge.committers.top/india_private/hack-parthsharma)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hack-parthsharma&label=Profile%20views&color=blueviolet&style=plastic" alt="hack-parthsharma" />
