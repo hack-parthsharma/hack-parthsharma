@@ -12,7 +12,9 @@
 <hr>
 <img width="1000" alt="header_1" src="https://user-images.githubusercontent.com/69046031/181695572-d47ed99f-25a8-474d-87ef-48e000750a5e.png">
 
+<p>
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/hack-parthsharma/hack-parthsharma/blob/master/devcard.svg" width="400" alt="Parth Sharma's Dev Card"/></a>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hack-parthsharma&label=Profile%20views&color=blueviolet&style=plastic" alt="hack-parthsharma" />
 <br/>
