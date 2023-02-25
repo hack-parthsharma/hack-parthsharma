@@ -128,37 +128,6 @@
 
 <hr>
 
-<details>
-	<summary>Check 🎑 </summary>
-
- ```python
- class WhoAmI:
- 	user = 'Parth Sharma'
-		current_work = 'Doing Hack'
-		hobbies = [
-				'CTF',
-				'Watching Anime',
-				'Reading Manga and Blogs'
-				'Being up all Night chasing that ONE BUG...'
-			]
-	
-	def getCity():
-		return Ahmedabad_India()
-	
-	def Ambitions():
-		OSCPCertified()
-		HTB_Machine_Creator()
-		LearnJapanese()
-		Be_an_Omnisicient()
-		MangaAuthor()
-		# More to fulfill  ;)
-	
-
-	
- ```
-</details>
-<hr>
-
 ## Tasks To Be Done
 
 - [x] Born
