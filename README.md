@@ -174,13 +174,9 @@
 </details>
 <hr>
 
-## 😂 Joke of the day
-<details>
-  <summary>See joke</summary>
-<p align="center">
-	![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51)
-</p>
-</details>
+## What about a joke ?
+
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51)
 
 <hr>
 
