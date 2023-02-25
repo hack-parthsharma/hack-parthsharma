@@ -142,7 +142,7 @@
 <details>
   <summary>Stats 🔥</summary>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hack-parthsharma&langs_count=10&layout=compact&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hack-parthsharma&langs_count=10&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
  <br/>
 [![trophy](https://github-profile-trophy.vercel.app/?username=hack-parthsharma&row=2&column=3&theme=gitdimmed)](https://github.com/ryo-ma/github-profile-trophy)
  <br/>
@@ -158,7 +158,7 @@
 </br>
 <p><img align="center" src="https://github-stats-alpha.vercel.app/api?username=hack-parthsharma&cc=000&tc=fff&ic=fff&bc=000"  />
 <br/>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hack-parthsharma&theme=tokyonight&show_icons=true&include_all_commits=true&theme=blue-white&count_private=true" alt="github stats"></p></br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hack-parthsharma&theme=radical&show_icons=true&include_all_commits=true&theme=blue-white&count_private=true" alt="github stats"></p></br>
 
 </details>
 
