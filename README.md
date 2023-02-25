@@ -191,7 +191,7 @@
 <hr>
 	
 
-### Spotify Playing
+### Spotify 🎧
 
 ![Spotify](https://novatorem.vercel.app/api/spotify)
 </br>
