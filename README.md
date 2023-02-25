@@ -170,7 +170,7 @@
 <details>
   <summary>See quote 👒</summary>
   
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)<br/>
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)<br/>
 </details>
 <hr>
 
