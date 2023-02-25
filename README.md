@@ -152,9 +152,9 @@
  <br/>
  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hack-parthsharma&theme=2077)
  <br/>
- ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hack-parthsharma&theme=2077) 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hack-parthsharma&" alt="hack-parthsharma" /></p>
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hack-parthsharma&theme=2077)
+ <br/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hack-parthsharma&theme=tokyonight_duo&hide_border=true&locale=hi)](https://git.io/streak-stats)
 </br>
 
 <p><img align="center" src="https://github-stats-alpha.vercel.app/api?username=hack-parthsharma"  /></p>
