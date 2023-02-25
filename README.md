@@ -158,7 +158,7 @@
 </br>
 <p><img align="center" src="https://github-stats-alpha.vercel.app/api?username=hack-parthsharma&cc=000&tc=fff&ic=fff&bc=000"  />
 <br/>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hack-parthsharma&show_icons=true&include_all_commits=true&theme=blue-white&count_private=true" alt="github stats"></p></br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hack-parthsharma&show_icons=true&include_all_commits=true&theme=blue-white&count_private=true&theme=tokyonight" alt="github stats"></p></br>
 
 </details>
 
