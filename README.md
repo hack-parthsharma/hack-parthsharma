@@ -146,13 +146,13 @@
  <br/>
 [![trophy](https://github-profile-trophy.vercel.app/?username=hack-parthsharma&row=2&column=3&theme=gitdimmed)](https://github.com/ryo-ma/github-profile-trophy)
  <br/>
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hack-parthsharma&theme=github) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hack-parthsharma&theme=2077) 
  <br/>
- ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hack-parthsharma&theme=github)
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hack-parthsharma&theme=2077)
  <br/>
- ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hack-parthsharma&theme=github)
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hack-parthsharma&theme=2077)
  <br/>
- ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hack-parthsharma&theme=github) 
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hack-parthsharma&theme=2077) 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hack-parthsharma&" alt="hack-parthsharma" /></p>
 </br>
