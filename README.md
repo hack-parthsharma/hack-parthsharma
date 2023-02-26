@@ -16,7 +16,6 @@
 <br/>
 <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
-<!-- <img src="cyberpunk.gif?raw=true" width="35%" height="35%" align='right'/> -->
 <br/>
 <br/>
 
