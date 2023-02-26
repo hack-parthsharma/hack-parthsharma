@@ -166,7 +166,7 @@
 <hr>
 ## LeetCode Stats Card 
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/hack-parthsharma?theme=milonga&font="Mclaren&ext=activity)]
+![Leetcode Stats](https://leetcard.jacoblin.cool/hack-parthsharma?theme=milonga&font="Mclaren&ext=activity)
 
 <hr>
 
