@@ -166,7 +166,7 @@
 <hr>
 ## LeetCode Stats Card 
 
-[![Parth's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Kaizoku&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+[![Parth's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=hack-parthsharma&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 <hr>
 
