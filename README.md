@@ -165,8 +165,9 @@
 
 <hr>
 ## LeetCode Stats Card 
-![LeetCode Stats](https://leetcard.jacoblin.cool/hack-parthsharma?theme=nord&font=McLaren&ext=activity)
-<br/>
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/hack-parthsharma?theme=milonga&font="Mclaren&ext=activity)]
+
 <hr>
 
 ## 💭 Quote of the day
