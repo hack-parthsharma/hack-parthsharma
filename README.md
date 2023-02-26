@@ -162,7 +162,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hack-parthsharma&show_icons=true&include_all_commits=true&theme=tokyonight&count_private=true" alt="github stats"></p></br>
 
 </details>
-
 <hr>
 
 ## 💭 Quote of the day
