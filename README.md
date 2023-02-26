@@ -166,7 +166,7 @@
 <hr>
 ## LeetCode Stats Card 
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/hack-parthsharma?theme=milonga&font="Mclaren&ext=activity)
+[![Parth's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Kaizoku&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 <hr>
 
