@@ -157,8 +157,6 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hack-parthsharma&theme=tokyonight_duo&hide_border=true&locale=hi)](https://git.io/streak-stats)
 </br>
 <p><img align="center" src="https://github-stats-alpha.vercel.app/api?username=hack-parthsharma&cc=000&tc=fff&ic=fff&bc=000"  />
-<br/>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hack-parthsharma&show_icons=true&include_all_commits=true&theme=tokyonight&count_private=true" alt="github stats"></p></br>
 
 </details>
 <hr>
