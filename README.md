@@ -143,8 +143,7 @@
 <details>
   <summary>Stats 🔥</summary>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hack-parthsharma&langs_count=10&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
- <br/>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=hack-parthsharma&row=2&column=3&theme=gitdimmed)](https://github.com/ryo-ma/github-profile-trophy)
  <br/>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hack-parthsharma&theme=2077) 
