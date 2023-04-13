@@ -159,10 +159,6 @@
 <p><img align="center" src="https://github-stats-alpha.vercel.app/api?username=hack-parthsharma&cc=000&tc=fff&ic=fff&bc=000"  />
 </br>
 <p><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=hack-parthsharma&theme=tokyo-night" />
-#### ∞ contributions in the last year
-
-| <img src="https://raw.githubusercontent.com/nilfalse/nilfalse/master/contributions.gif" alt="Contributions" width="722px" height="112px" /> |
-| ------------------------------------------------------------------------------------------------------------------------------------------- |
 
 </details>
 <hr>
