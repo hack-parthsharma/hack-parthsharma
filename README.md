@@ -85,9 +85,6 @@
 </details>
 <hr>
 
-![Metrics](https://metrics.lecoq.io/hack-parthsharma?template=classic&lines=1&isocalendar=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FKolkata)
-<hr>
-
 ### Spotify 🎧
 
 ![Spotify](https://novatorem.vercel.app/api/spotify)
