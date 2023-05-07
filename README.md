@@ -66,11 +66,12 @@
 <hr>
 
 
-## 💭 Quote of the day
+## 💭 Metrics
 <details>
-  <summary>See quote 👒</summary>
+  <summary>Github Metrics</summary>
   
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)<br/>
+![Metrics](/github-metrics.svg)
+
 </details>
 <hr>
 
