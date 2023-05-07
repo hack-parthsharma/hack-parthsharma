@@ -20,5 +20,15 @@ jobs:
           plugin_activity_limit: 5
           plugin_activity_days: 0
           plugin_activity_filter: issue, pr, release, fork, review, ref/create
+          plugin_calendar: yes
+          plugin_achievements: yes
+          plugin_achievements_only: >-
+           polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
+           scripter, packager, explorer, infographile, manager
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: X
+          plugin_people: yes
+          plugin_people_types: followers
+          
 
 
