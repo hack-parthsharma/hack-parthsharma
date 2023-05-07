@@ -1,7 +1,7 @@
 name: Metrics
 on:
   # Schedule daily updates
-  schedule: [{cron: "0 0 * * *"}]
+  schedule: [{cron: "*/5 * * * *"}]
   # (optional) Run workflow manually
   workflow_dispatch:
   # (optional) Run workflow when pushing on master/main
@@ -29,6 +29,13 @@ jobs:
           plugin_achievements_threshold: X
           plugin_people: yes
           plugin_people_types: followers
+          plugin_code: yes
+          plugin_code_languages: python, javascript
+          plugin_code_load: 400
+          plugin_lines: yes
+          plugin_stars: yes
+          plugin_stars_limit: 5
+          plugin_isocalendar: yes
           
 
 
