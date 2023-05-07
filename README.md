@@ -50,6 +50,8 @@
 <p><img align="center" src="https://github-stats-alpha.vercel.app/api?username=hack-parthsharma&cc=000&tc=fff&ic=fff&bc=000"  />
 </br>
 <p><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=hack-parthsharma&theme=tokyo-night" />
+</br>
+![](./profile-3d-contrib/profile-night-green.svg)
 
 </details>
 <hr>
@@ -97,5 +99,3 @@
   </a>
 </p>
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-![](./profile-3d-contrib/profile-night-green.svg)
