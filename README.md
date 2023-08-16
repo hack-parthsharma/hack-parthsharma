@@ -61,7 +61,6 @@
 <!-- ![LeetCode Stats](https://leard.jacoblin.cool/hack-parthsharma?theme=dark&font=Andika&ext=activity) -->
 ![LeetCode Stats](https://leetcard.jacoblin.cool/hack-parthsharma?theme=dark&font=Ubuntu&ext=heatmap)
 
-<script src="https://tryhackme.com/badge/253334"></script>
 </br>
 <hr>
 
