@@ -96,4 +96,4 @@
 
 ### TryHackme
 
-<p align="center">  <script src="https://tryhackme.com/badge/253334"></script> </p>
+<p align="center">  <img src="https://tryhackme-badges.s3.amazonaws.com/Mr.Robleis.png" alt="TryHackMe"> </p>
