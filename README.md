@@ -24,7 +24,7 @@
 ## Tasks To Be Done
 
 - [x] Born
-- [ ] Got a job
+- [x] Got a job
 - [ ] Married
 - [ ] Have children
 - [ ] Die
